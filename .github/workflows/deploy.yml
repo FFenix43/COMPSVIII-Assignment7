@@ -1,4 +1,4 @@
-
+name: Recipe App CI/CD Pipeline
 
 on:
   push:
